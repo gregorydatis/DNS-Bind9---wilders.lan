@@ -25,3 +25,7 @@ Validés depuis Windows Server (172.16.10.3) avec nslookup
 
 
 <img width="558" height="192" alt="www" src="https://github.com/user-attachments/assets/52a8eed8-5c4d-43ac-b967-493250505ad3" />
+
+
+<img width="542" height="66" alt="Résultat named-checkzone" src="https://github.com/user-attachments/assets/9aeabade-9e0c-4d19-8133-4fa15d1a8c49" />
+
