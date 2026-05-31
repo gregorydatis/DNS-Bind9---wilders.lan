@@ -22,3 +22,6 @@ Validés depuis Windows Server (172.16.10.3) avec nslookup
 
 
 <img width="562" height="212" alt="web" src="https://github.com/user-attachments/assets/d5f4e27e-dd46-455b-8e76-a2330666c481" />
+
+
+<img width="558" height="192" alt="www" src="https://github.com/user-attachments/assets/52a8eed8-5c4d-43ac-b967-493250505ad3" />
