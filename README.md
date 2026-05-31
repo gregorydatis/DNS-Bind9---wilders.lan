@@ -13,3 +13,9 @@
 | jarvis | A | 172.16.10.3 |
 | www | A | 172.16.10.3 |
 | web | CNAME | www.wilders.lan |
+
+## Tests
+Validés depuis Windows Server (172.16.10.3) avec nslookup
+
+
+<img width="770" height="219" alt="fichier db wilders lan" src="https://github.com/user-attachments/assets/b4c8deac-c039-498f-a778-48415eea4dcb" />
